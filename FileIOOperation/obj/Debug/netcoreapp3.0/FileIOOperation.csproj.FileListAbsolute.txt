@@ -1,0 +1,12 @@
+C:\Users\manoj\source\repos\FileIOOperation\FileIOOperation\bin\Debug\netcoreapp3.0\FileIOOperation.exe
+C:\Users\manoj\source\repos\FileIOOperation\FileIOOperation\bin\Debug\netcoreapp3.0\FileIOOperation.deps.json
+C:\Users\manoj\source\repos\FileIOOperation\FileIOOperation\bin\Debug\netcoreapp3.0\FileIOOperation.runtimeconfig.json
+C:\Users\manoj\source\repos\FileIOOperation\FileIOOperation\bin\Debug\netcoreapp3.0\FileIOOperation.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\FileIOOperation\FileIOOperation\bin\Debug\netcoreapp3.0\FileIOOperation.dll
+C:\Users\manoj\source\repos\FileIOOperation\FileIOOperation\bin\Debug\netcoreapp3.0\FileIOOperation.pdb
+C:\Users\manoj\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.0\FileIOOperation.csprojAssemblyReference.cache
+C:\Users\manoj\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.0\FileIOOperation.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.0\FileIOOperation.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.0\FileIOOperation.AssemblyInfo.cs
+C:\Users\manoj\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.0\FileIOOperation.dll
+C:\Users\manoj\source\repos\FileIOOperation\FileIOOperation\obj\Debug\netcoreapp3.0\FileIOOperation.pdb
